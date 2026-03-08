@@ -1,0 +1,5 @@
+{
+  "name": "swiftui-macos-skill",
+  "description": "Expert SwiftUI guidance for macOS apps — runtime-level understanding of observation, concurrency, view identity, and platform integration. Built from developing a production macOS browser.",
+  "version": "1.0.0"
+}

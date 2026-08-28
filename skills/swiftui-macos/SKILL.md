@@ -27,7 +27,8 @@ Guide SwiftUI development for macOS apps. Whether writing new code or reviewing 
 | `references/performance.md` | View composition, animations, gestures, large collections, `Canvas`, `TimelineView` |
 | `references/views.md` | View decomposition, navigation, `.task(id:)`, preference keys, custom `Layout` |
 | `references/data.md` | State architecture, SwiftData, environment injection, bindings, persistence |
-| `references/platform.md` | `NSViewRepresentable`, `NSHostingView`, multi-window, AppKit bridging, window chrome |
+| `references/platform.md` | `NSViewRepresentable`, `NSHostingView`, multi-window state, AppKit bridging |
+| `references/scenes.md` | Scene and window API catalog — `UtilityWindow`, `MenuBarExtra` styles, `Settings`, window sizing/chrome, `Commands`, file dialogs, `Table`/`PasteButton`. Load to check what exists and its availability. |
 | `references/api.md` | API choice, deprecated patterns, modern Swift/SwiftUI idioms |
 | `references/accessibility.md` | VoiceOver, keyboard navigation, Dynamic Type, Reduce Motion |
 

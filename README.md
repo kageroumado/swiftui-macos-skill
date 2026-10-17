@@ -23,6 +23,7 @@ An agent skill for macOS SwiftUI work, centered on observation internals, actor 
 | `references/views.md` | View decomposition, `.task(id:)`, preference keys, custom `Layout`, animation, navigation |
 | `references/data.md` | Manager pattern, `@Bindable`, SwiftData, debounced saving, `@ModelActor`, environment injection |
 | `references/platform.md` | `NSViewRepresentable`, `NSHostingView`, multi-window state, `openWindow`, AppKit bridging, macOS scenes |
+| `references/scenes.md` | Scene and window API catalog: `UtilityWindow`, `MenuBarExtra` styles, `Settings`, window sizing and chrome, `Commands`, file dialogs, `Table`, `PasteButton` |
 | `references/performance.md` | View identity graph, `.id()` dangers, `Equatable` views, `@State` for gestures, `Canvas`, `TimelineView`, `drawingGroup()` |
 | `references/api.md` | Deprecated API replacements, Swift modernisms, `@Previewable`, `@Entry`, Apple open-source Swift packages |
 | `references/accessibility.md` | VoiceOver, Dynamic Type, keyboard navigation, accessibility rotors, `@AccessibilityFocusState`, drag-and-drop a11y, testing |
